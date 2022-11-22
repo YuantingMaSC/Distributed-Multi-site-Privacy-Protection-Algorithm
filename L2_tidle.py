@@ -1,3 +1,15 @@
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+@File       :  L2_tidle.py
+@Time       :  2021/10/12
+@Author     :  Yuanting Ma
+@Version    :  1.0
+@Site       :  https://github.com/YuantingMaSC
+@Contact    :  yuantingma@189.cn
+"""
+
 import math
 import numpy as np
 import pandas as pd

@@ -1,3 +1,14 @@
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+@File       :  algorithmB.py
+@Time       :  2021/10/12
+@Author     :  Yuanting Ma
+@Version    :  1.0
+@Site       :  https://github.com/YuantingMaSC
+@Contact    :  yuantingma@189.cn
+"""
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

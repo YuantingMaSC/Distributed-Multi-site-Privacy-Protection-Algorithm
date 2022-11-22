@@ -1,3 +1,15 @@
+# !/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+@File       :  sklearn_logit.py
+@Time       :  2021/10/12
+@Author     :  Yuanting Ma
+@Version    :  1.0
+@Site       :  https://github.com/YuantingMaSC
+@Contact    :  yuantingma@189.cn
+"""
+
 from sklearn.linear_model import LogisticRegression
 import pandas as pd
 import numpy as np
